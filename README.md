@@ -1,4 +1,4 @@
 # Movies-Recommendation-System
 This is a simple movies recommendation system mini project in C++
 
-[View PDF](./flowchart.pdf)
+[View PDF](./Flowchart.pdf)
